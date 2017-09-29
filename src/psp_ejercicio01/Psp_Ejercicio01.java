@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package psp_ejercicio0;
+package psp_ejercicio01;
 
 /**
  *
  * @author otorradomiguez
  */
-public class Psp_Ejercicio0 {
+public class Psp_Ejercicio01 {
 
     /**
      * @param args the command line arguments
